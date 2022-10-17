@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali-shokoohi
+
 - 👀 I’m interested in everythings
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on web develoption projects
