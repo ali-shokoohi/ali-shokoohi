@@ -40,7 +40,9 @@ Senior Backend Engineer & Team Lead with 7+ years of experience designing scalab
 - Architected ONVIF integrations that improved camera interoperability by 30% and enabled compatibility with 15+ VMS platforms.
 - Re-architected Go-based streaming services, improving playback performance and efficiency by 60%.
 
-Tech Stack: Go, Rust, PostgreSQL, gRPC, Kafka, WebRTC, ONVIF, RTSP, HLS
+**Technologies:** Go, Rust, PostgreSQL, gRPC, Kafka, WebRTC, ONVIF, RTSP, HLS
+
+**Supervisor:** Milad Esfandiari ([miladisjobs@gmail.com](mailto:miladisjobs@gmail.com))
 
 ---
 
@@ -55,6 +57,7 @@ Tech Stack: Go, Rust, PostgreSQL, gRPC, Kafka, WebRTC, ONVIF, RTSP, HLS
 - Maintained a 99.9% uptime, minimizing downtime incidents by 20% with efficient deployments on AWS.
 
 **Technologies:** Go, Rust, Blockchain, Solana, Smart contracts, PostgreSQL, gRPC, Redis, GCP, Docker
+
 **Supervisor:** Akira Tanaka ([joha@bictory.io](mailto:joha@bictory.io))
 
 ---
@@ -69,6 +72,7 @@ Tech Stack: Go, Rust, PostgreSQL, gRPC, Kafka, WebRTC, ONVIF, RTSP, HLS
 - Achieved a 99.8% system uptime, while cutting down on system downtimes by 15% via deployment on GCP.
 
 **Technologies:** Go, Blockchain, Ethereum, Smart contracts, PostgreSQL, gRPC, Redis, GCP, Docker
+
 **Supervisor:** Alina Cazanacl ([alina@totemfi.com](mailto:alina@totemfi.com))
 
 ---
@@ -82,6 +86,7 @@ Tech Stack: Go, Rust, PostgreSQL, gRPC, Kafka, WebRTC, ONVIF, RTSP, HLS
 - Accomplished 35% reduction of server response time using Redis in-memory caching.
 
 **Technologies:** Go, Blockchain, Ethereum, Smart contracts, PostgreSQL, gRPC, Redis, GCP, Docker
+
 **Supervisor:** Leily Bahramy ([bahramyleily@gmail.com](mailto:bahramyleily@gmail.com))
 
 ---
